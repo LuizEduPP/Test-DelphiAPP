@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2022/07/13 19:20:37.000.586,=C:\Users\Pichau\Desktop\TesteSoftPlan\ProvaDelphiApp\Unit1.pas</Transaction>
+    <Transaction>2022/07/13 19:25:43.000.586,C:\Users\Pichau\Desktop\TesteSoftPlan\ProvaDelphiApp\uFrmTarefa1.pas=C:\Users\Pichau\Desktop\TesteSoftPlan\ProvaDelphiApp\ufTarefa1.pas</Transaction>
+    <Transaction>2022/07/13 19:25:43.000.586,C:\Users\Pichau\Desktop\TesteSoftPlan\ProvaDelphiApp\uFrmTarefa1.dfm=C:\Users\Pichau\Desktop\TesteSoftPlan\ProvaDelphiApp\ufTarefa1.dfm</Transaction>
+    <Transaction>2022/07/13 19:25:55.000.748,C:\Users\Pichau\Desktop\TesteSoftPlan\ProvaDelphiApp\uFrmTarefa2.pas=C:\Users\Pichau\Desktop\TesteSoftPlan\ProvaDelphiApp\ufTarefa2.pas</Transaction>
+    <Transaction>2022/07/13 19:25:55.000.748,C:\Users\Pichau\Desktop\TesteSoftPlan\ProvaDelphiApp\uFrmTarefa2.dfm=C:\Users\Pichau\Desktop\TesteSoftPlan\ProvaDelphiApp\ufTarefa2.dfm</Transaction>
+    <Transaction>2022/07/13 19:26:01.000.785,C:\Users\Pichau\Desktop\TesteSoftPlan\ProvaDelphiApp\uFrmTarefa3.dfm=C:\Users\Pichau\Desktop\TesteSoftPlan\ProvaDelphiApp\ufTarefa3.dfm</Transaction>
+    <Transaction>2022/07/13 19:26:01.000.785,C:\Users\Pichau\Desktop\TesteSoftPlan\ProvaDelphiApp\uFrmTarefa3.pas=C:\Users\Pichau\Desktop\TesteSoftPlan\ProvaDelphiApp\ufTarefa3.pas</Transaction>
+    <Transaction>2022/07/13 19:26:07.000.498,C:\Users\Pichau\Desktop\TesteSoftPlan\ProvaDelphiApp\uThread.pas=C:\Users\Pichau\Desktop\TesteSoftPlan\ProvaDelphiApp\uspThread.pas</Transaction>
+    <Transaction>2022/07/14 10:43:10.000.423,C:\Users\Pichau\Desktop\TesteSoftPlan\ProvaDelphiApp\uFrmPrincipal.pas=C:\Users\Pichau\Desktop\TesteSoftPlan\ProvaDelphiApp\ufPrincipal.pas</Transaction>
+    <Transaction>2022/07/14 10:43:10.000.423,C:\Users\Pichau\Desktop\TesteSoftPlan\ProvaDelphiApp\uFrmPrincipal.dfm=C:\Users\Pichau\Desktop\TesteSoftPlan\ProvaDelphiApp\ufPrincipal.dfm</Transaction>
+    <Transaction>2022/07/14 10:43:20.000.595,C:\Users\Pichau\Desktop\TesteSoftPlan\ProvaDelphiApp\uFrmTarefa1.dfm=C:\Users\Pichau\Desktop\TesteSoftPlan\ProvaDelphiApp\ufTarefa1.dfm</Transaction>
+    <Transaction>2022/07/14 10:43:20.000.595,C:\Users\Pichau\Desktop\TesteSoftPlan\ProvaDelphiApp\uFrmTarefa1.pas=C:\Users\Pichau\Desktop\TesteSoftPlan\ProvaDelphiApp\ufTarefa1.pas</Transaction>
+    <Transaction>2022/07/14 10:43:26.000.579,C:\Users\Pichau\Desktop\TesteSoftPlan\ProvaDelphiApp\uFrmTarefa2.dfm=C:\Users\Pichau\Desktop\TesteSoftPlan\ProvaDelphiApp\ufTarefa2.dfm</Transaction>
+    <Transaction>2022/07/14 10:43:26.000.579,C:\Users\Pichau\Desktop\TesteSoftPlan\ProvaDelphiApp\uFrmTarefa2.pas=C:\Users\Pichau\Desktop\TesteSoftPlan\ProvaDelphiApp\ufTarefa2.pas</Transaction>
+    <Transaction>2022/07/14 10:43:35.000.346,C:\Users\Pichau\Desktop\TesteSoftPlan\ProvaDelphiApp\uFrmTarefa3.pas=C:\Users\Pichau\Desktop\TesteSoftPlan\ProvaDelphiApp\ufTarefa3.pas</Transaction>
+    <Transaction>2022/07/14 10:43:35.000.346,C:\Users\Pichau\Desktop\TesteSoftPlan\ProvaDelphiApp\uFrmTarefa3.dfm=C:\Users\Pichau\Desktop\TesteSoftPlan\ProvaDelphiApp\ufTarefa3.dfm</Transaction>
+  </Transactions>
+</BorlandProject>
